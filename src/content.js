@@ -88,7 +88,7 @@ function MainBody() {
                 </div>
                 <div className="banner">
                     <div className='banner-wrapper'>
-                        <img src="http://wpbusinesssolution.com/banner.png" alt="banner-img" className='banner-img' />
+                        <img src="./banner.png" alt="banner-img" className='banner-img' />
                     </div>
                 </div>
             </div>
